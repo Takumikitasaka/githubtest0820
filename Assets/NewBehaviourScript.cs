@@ -10,8 +10,8 @@ public class NewBehaviourScript : MonoBehaviour
         Debug.Log("test");
     }
   
-    void Update()
-    {
+    
+    
         
-    }
+    
 }
